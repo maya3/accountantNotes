@@ -14,7 +14,7 @@ IAS 39 states that a financial asset is impaired and impairment losses are incur
 
 ### Expected loss approach (Expected Credit Loss, ECL) ###
 
-The IASB has proposed a model where credit losses on financial assets are no longer recognised when incurred but rather, are recognised on the basis of [expected credit losses]({% post_url 2015-11-11-impairment-fa-detailed %}). This is often called the 'expected loss' approach.
+The IASB has proposed a model where credit losses on financial assets are no longer recognised when incurred but rather, are recognised on the basis of [expected credit losses]({% post_url 2015-12-16-impairment-fa-detailed %}). This is often called the 'expected loss' approach.
 
 - This approach was adopted by the current Exposure Draft (ED) issued by the IASB in March 2013. 
 It applies to:
